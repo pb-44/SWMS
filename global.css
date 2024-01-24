@@ -63,7 +63,9 @@ a:hover{
 }
 
 .main{
-    background-color: rgb(198,198,198);
+    background-color: rgb(220, 220, 220);  /*Previously 198, 198, 198*/
+    font-size: 30px;
+    font-weight: 800;
     color: rgb(38, 38, 38);
     margin-top: 25px;
     padding: 25px 0px 25px 0px;
